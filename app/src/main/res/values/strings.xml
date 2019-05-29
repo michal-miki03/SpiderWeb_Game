@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Spider Ball</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title">Spider Ball</string>
+    <string name="result_space">Result: </string>
+    <string name="score">Your score: </string>
+    <string name="bestScore">Best score: </string>
+    <string name="gameOver">Game over</string>
+    <string name="newRecord">NEW RECORD</string>
+    <string name="instruction">About the game</string>
+    <string name="instruction_part1">The purpose of the game is simple. \n\nTry to goal the ball into the target:</string>
+    <string name="instruction_part2">and remember to avoid spiderweb:</string>
+    <string name="goodLuck">Good luck ;)</string>
+    <string name="back">Return</string>
+    <string name="try_again">Try again</string>
+    <string name="exit">Exit</string>
+    <string name="result">Result:</string>
+    <string name="purpose">purpose</string>
+    <string name="spiderweb">spiderweb</string>
+    <string name="ball">ball</string>
+    <string name="start">START</string>
+    <string name="new_record">New record</string>
+
+</resources>
